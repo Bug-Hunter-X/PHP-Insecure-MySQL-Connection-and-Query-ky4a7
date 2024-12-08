@@ -1,0 +1,1 @@
+This code snippet demonstrates a common error in PHP related to using "mysql_*" functions, which are deprecated and insecure.  The code attempts to connect to a MySQL database, execute a query, and fetch the results. However, it lacks crucial error handling and uses outdated functions.
