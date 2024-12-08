@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP: using the deprecated `mysql_*` functions for database interaction.  The `bug.php` file shows insecure code that is vulnerable to SQL injection and lacks error handling.  The `bugSolution.php` file provides a secure alternative using MySQLi or PDO.
